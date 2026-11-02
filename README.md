@@ -4,6 +4,10 @@ Find duplicate object member names before a JSON import silently keeps only one
 value. Runs locally with Python 3.10+ and its standard library; no installation,
 network connection or dependencies. This is an early command-line preview.
 
+[Download the source ZIP](https://codeload.github.com/Dexter-Ou/json-key-check/zip/3e7572209154879b32f02934f54466f1a741fda1),
+extract it, and open a terminal in the extracted `json-key-check-3e7572209154879b32f02934f54466f1a741fda1`
+folder containing `json_key_check.py`. The download is pinned to this preview.
+
 Save your JSON file, then run from this extracted folder:
 
 ```sh
